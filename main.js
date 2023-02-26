@@ -9,7 +9,7 @@ function Equalornot(n1, n2) {
 		console.log(`${n1} and ${n2} are equal numbers`);
 	} 
 	else {
-		console.log(`${n1} and ${n2} are not equal.`);
+		console.log(`${n1} and ${n2} are not equal numbers`);
 	}
 }
 
